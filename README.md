@@ -1,4 +1,4 @@
-In this assignment built **Admin UI** for admins to see and delete users. The users will be provided via an API. Your job is to build out a working UI. See image below for reference.
+In this assignment built **Admin UI** for admins to see and delete users. The users will be provided via an API.  See image below for reference.
 
 ### Refer to images below:
 
@@ -38,6 +38,13 @@ The app must have the following functionalities
   the 'Delete Selected' button at the bottom left
 
 </details>
+
+### API to fetch the data 
+
+- https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
+
+### website url 
+ -https://satyaadminui.ccbp.tech
 
 
 
